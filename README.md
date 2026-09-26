@@ -1,6 +1,7 @@
 # Skill: Rubrik Penilaian OBE UNIROW Tuban
 
 [![Antigravity Skill](https://img.shields.io/badge/Antigravity-Skill-blue.svg)](https://github.com/mariofahmi/Skillrublikpenilaian)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen.svg)](https://mariofahmi.github.io/Skillrublikpenilaian/)
 [![Kurikulum](https://img.shields.io/badge/Kurikulum-OBE%202026-green.svg)](https://unirow.ac.id)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
